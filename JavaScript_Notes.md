@@ -33,22 +33,23 @@ JS has 7 data types.
 # VARIABLES
 
 
-### Var Data Type
+### Var
 **Var data** variables can have store any type of data type
+It can be used anywhere in the program
 ```
 var myName = "Ani"
 myName = 10
 ```
 &nbsp;
 &nbsp;
-### Let Data Type
+### Let
 **Let** will be used only within the scope where it is used
 ```
 let ourName = "javascript"
 ```
 &nbsp;
 &nbsp;
-### Const Data Type
+### Const
 ```
 const pi=3.14
 ```
