@@ -74,4 +74,5 @@ b=a;
 
 console.log(a)
 ```
->```Console Output: undefined <br>7```
+>```Console Output: undefined```
+>```7```
