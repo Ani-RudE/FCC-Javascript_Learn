@@ -61,4 +61,15 @@ const pi=3.14
 #
 
 
-# OPERATORS
+# Storing Values with the Assignment Operator
+```
+var a;
+var b=2;
+
+a=7;
+
+b=a;
+
+console.log(a)
+```
+>```Console Output: 7```
