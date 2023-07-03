@@ -40,15 +40,15 @@ It can be used anywhere in the program
 var myName = "Ani"
 myName = 10
 ```
-&nbsp;
-&nbsp;
+<br>
+<br>
 ### Let
 **Let** will be used only within the scope where it is used
 ```
 let ourName = "javascript"
 ```
-&nbsp;
-&nbsp;
+<br>
+<br>
 ### Const
 **Const** value can never change
 ```
