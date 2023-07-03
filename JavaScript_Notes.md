@@ -6,6 +6,8 @@
 
 
 #
+&nbsp;
+&nbsp;
 #
 
 
@@ -23,6 +25,8 @@ JS has 7 data types.
 
 
 #
+&nbsp;
+&nbsp;
 #
 
 
