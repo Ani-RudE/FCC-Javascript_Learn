@@ -62,6 +62,7 @@ const pi=3.14
 
 
 # Storing Values with the Assignment Operator
+[File](/learn_1.js)
 ```
 var a;
 var b=2;
@@ -74,6 +75,3 @@ b=a;
 
 console.log(a)
 ```
-/learn_1.js
->```Console Output: undefined```<br>
->```7```<br>
