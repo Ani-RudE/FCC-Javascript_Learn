@@ -37,6 +37,14 @@ myName = 10
 ```
 
 
+
+
+
+
+
+
+
+
 ### Let Data Type
 **Let** will be used only within the scope where it is used
 ```let ourName = "javascript"```
