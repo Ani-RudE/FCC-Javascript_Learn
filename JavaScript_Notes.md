@@ -37,15 +37,13 @@ myName = 10
 ```
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ### Let Data Type
 **Let** will be used only within the scope where it is used
 ```
 let ourName = "javascript"
 ```
-
+&nbsp;
+&nbsp;
 ### Const Data Type
 ```
 const pi=3.14
