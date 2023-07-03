@@ -28,16 +28,16 @@ JS has 7 data types.
 
 # VARIABLES
 
-
->Var data variables can have store any type of data type
->
+### Var Data Type
+**Var data** variables can have store any type of data type
 ```
 var myName = "Ani"
 myName = 10
 ```
 
->Let will be used only within the scope where it is used
-```
-let ourName = "javascript"
-const pi=3.14
-```
+### Let Data Type
+**Let** will be used only within the scope where it is used
+```let ourName = "javascript"```
+
+### Const Data Type
+```const pi=3.14```
