@@ -36,7 +36,7 @@ JS has 7 data types.
 ### Var
 **Var data** variables can have store any type of data type
 &nbsp;
-
+&nbsp;
 It can be used anywhere in the program
 ```
 var myName = "Ani"
