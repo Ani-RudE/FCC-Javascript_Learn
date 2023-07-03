@@ -35,9 +35,11 @@ JS has 7 data types.
 var myName = "Ani"
 myName = 10
 ```
-```
-
-```
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ### Let Data Type
 **Let** will be used only within the scope where it is used
 ```
