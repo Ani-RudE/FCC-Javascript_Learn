@@ -72,6 +72,6 @@ b=a;
 
 console.log(a)
 ```
+```Console Output: 7```
 >Console Output: 7<br>
 >```Console Output: 7```<br>
-```Console Output: 7```
