@@ -28,12 +28,14 @@ JS has 7 data types.
 
 # VARIABLES
 
+
 ### Var Data Type
 **Var data** variables can have store any type of data type
 ```
 var myName = "Ani"
 myName = 10
 ```
+
 
 ### Let Data Type
 **Let** will be used only within the scope where it is used
