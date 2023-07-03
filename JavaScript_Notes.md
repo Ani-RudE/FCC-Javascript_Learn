@@ -35,19 +35,16 @@ JS has 7 data types.
 var myName = "Ani"
 myName = 10
 ```
+```
 
-
-
-
-
-
-
-
-
-
+```
 ### Let Data Type
 **Let** will be used only within the scope where it is used
-```let ourName = "javascript"```
+```
+let ourName = "javascript"
+```
 
 ### Const Data Type
-```const pi=3.14```
+```
+const pi=3.14
+```
