@@ -42,6 +42,7 @@ myName = 10
 ```
 <br>
 <br>
+
 ### Let
 **Let** will be used only within the scope where it is used
 ```
@@ -49,6 +50,7 @@ let ourName = "javascript"
 ```
 <br>
 <br>
+
 ### Const
 **Const** value can never change
 ```
