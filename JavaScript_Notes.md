@@ -50,6 +50,7 @@ let ourName = "javascript"
 &nbsp;
 &nbsp;
 ### Const
+**Const** value can never change
 ```
 const pi=3.14
 ```
