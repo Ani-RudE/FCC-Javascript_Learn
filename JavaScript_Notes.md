@@ -54,3 +54,11 @@ let ourName = "javascript"
 ```
 const pi=3.14
 ```
+
+#
+&nbsp;
+&nbsp;
+#
+
+
+# OPERATORS
