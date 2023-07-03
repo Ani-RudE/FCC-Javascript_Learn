@@ -26,7 +26,7 @@
 Code
 ```
 
-`#FFFFFF`
+`#0969DA`
 `int n=10`
 
 - Bullet points
@@ -37,4 +37,4 @@ Code
 2. Ordered List
 3. Ordered List
 
-<span style="color: blue;">This text is blue.</span>
+![Styling Texts](https://cdn.discordapp.com/attachments/1075621727004016721/1125362842359570513/image.png)
