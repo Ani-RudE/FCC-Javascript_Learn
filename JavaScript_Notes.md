@@ -75,5 +75,5 @@ b=a;
 console.log(a)
 ```
 >```Console Output: undefined```<br>
->```7```
+>```7```<br>
 /learn_1.js
