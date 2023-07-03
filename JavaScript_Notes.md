@@ -66,10 +66,13 @@ const pi=3.14
 var a;
 var b=2;
 
+console.log(a)
+
 a=7;
 
 b=a;
 
 console.log(a)
 ```
->```Console Output: 7```<br>
+>```Console Output: undefined
+7```
