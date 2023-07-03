@@ -1,4 +1,3 @@
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!--Space b/w two MAIN HEADINGs-->
 
 
@@ -10,7 +9,6 @@
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!--Space b/w two Sub Headings-->
 <br>
 
@@ -37,4 +35,8 @@ Code
 2. Ordered List
 3. Ordered List
 
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+
+[Text](Link)
+![Alt Text](Image Link)
 ![Styling Texts](https://cdn.discordapp.com/attachments/1075621727004016721/1125362842359570513/image.png)
