@@ -140,7 +140,7 @@ var vs="code";
 ```
 <br>
 
-*How to Escape Literal Quotes?*
+**_How to Escape Literal Quotes?_**<br>
 We can do so by using the `\` icon before the quote marks that we want to retain.
 ```
 var str="Hello there, \"I am using Visual Studio Code\"";
