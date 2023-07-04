@@ -111,10 +111,38 @@ console.log(sum);
 console.log(diff);
 console.log(prod);
 console.log(div);
-console.log();
+console.log(mod);
 ```
-[Code](/Codes/003_code.js)
+[Code](/Codes/003_code.js)x
 <br>
 
 ## Increment Decrement Operators
 ```
+var a=5;
+var b=10;
+a++;
+b--;
+```
+[Code](Codes/005_code.js)
+<br>
+
+
+#
+&nbsp;
+&nbsp;
+#
+
+
+# STRING
+```
+var lang="javascript";
+var vs="code";
+```
+<br>
+
+*How to Escape Literal Quotes?*
+We can do so by using the `\` icon before the quote marks that we want to retain.
+```
+var str="Hello there, \"I am using Visual Studio Code\"";
+```
+[Code](Codes/006_code.js)
