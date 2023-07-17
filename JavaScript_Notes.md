@@ -170,7 +170,7 @@ CODE OUTPUT
 
 # Concatenation
 <br>
-[Code](Codes/008_code.js)
+[Code](/Codes/008_code.js)
 <br>
 
 # 
