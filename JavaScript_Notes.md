@@ -152,10 +152,25 @@ var str="Hello there, \"I am using Visual Studio Code\"";
 ## String Methods
 
 # Escaping Double Quotes
-Applying `\` before the `"` mark makes the compiler ignore that `"` as a start or end point of a string.
+Applying `\` before the `"` mark makes the compiler ignore that `"` as a start or end point of a string, or else just use `'` instead of `"` to mark the start and end of a string.
+<br>
 [Code](Codes/007_code.js)
 
-# Concatenation
-[Code](Codes/008_code.js)
+```
+CODE OUTPUT
+\' single quote
+\" double quote
+\\ backslash
+\n newline
+\r carriage return
+\t tab
+\b backspace
+\f form feed
+```
 
-#
+# Concatenation
+<br>
+[Code](Codes/008_code.js)
+<br>
+
+# 
