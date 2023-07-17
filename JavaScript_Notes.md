@@ -113,7 +113,7 @@ console.log(prod);
 console.log(div);
 console.log(mod);
 ```
-[Code](/Codes/003_code.js)x
+[Code](/Codes/003_code.js)
 <br>
 
 ## Increment Decrement Operators
@@ -138,6 +138,7 @@ b--;
 var lang="javascript";
 var vs="code";
 ```
+[Code](Codes/006_code.js)
 <br>
 
 ***How to Escape Literal Quotes?***
@@ -147,3 +148,14 @@ We can do so by using the `\` icon before the quote marks that we want to retain
 var str="Hello there, \"I am using Visual Studio Code\"";
 ```
 [Code](Codes/006_code.js)
+
+## String Methods
+
+# Escaping Double Quotes
+Applying `\` before the `"` mark makes the compiler ignore that `"` as a start or end point of a string.
+[Code](Codes/007_code.js)
+
+# Concatenation
+[Code](Codes/008_code.js)
+
+#
