@@ -151,7 +151,7 @@ var str="Hello there, \"I am using Visual Studio Code\"";
 
 ## String Methods
 
-# Escaping Double Quotes
+### Escaping Double Quotes
 Applying `\` before the `"` mark makes the compiler ignore that `"` as a start or end point of a string, or else just use `'` instead of `"` to mark the start and end of a string.
 <br>
 [Code](Codes/007_code.js)
@@ -168,19 +168,19 @@ CODE OUTPUT
 \f form feed
 ```
 
-# Concatenation
+### Concatenation
 [Code](/Codes/008_code.js)
 <br>
 
-# String Length
+### String Length
 [Code](/Codes/009_code.js)
 <br>
 
-# Bracket Notation
+### Bracket Notation
 [Code](/Codes/009_code.js)
 <br>
 
-# Immutable
+### Immutable
 We can't change only one index of a string individually, we have to update the entire string.<br>
 [Code](/Codes/010_code.js)
 <br>
