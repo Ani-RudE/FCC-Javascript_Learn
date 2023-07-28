@@ -181,7 +181,7 @@ CODE OUTPUT
 <br>
 
 # Immutable
-We can't change only one index of a string individually, we have to update the entire string.
+We can't change only one index of a string individually, we have to update the entire string.<br>
 [Code](/Codes/010_code.js)
 <br>
 
