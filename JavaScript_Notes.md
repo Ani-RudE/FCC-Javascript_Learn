@@ -172,4 +172,34 @@ CODE OUTPUT
 [Code](/Codes/008_code.js)
 <br>
 
-# 
+# String Length
+[Code](/Codes/009_code.js)
+<br>
+
+# Bracket Notation
+[Code](/Codes/009_code.js)
+<br>
+
+# Immutable
+We can't change only one index of a string individually, we have to update the entire string.
+[Code](/Codes/010_code.js)
+<br>
+
+# Immutable
+We can't change only one index of a string individually, we have to update the entire string.
+[Code](/Codes/010_code.js)
+<br>
+
+## Word Blanks
+[Code](Codes/011_wordBlanks.js)
+<br>
+
+
+#
+&nbsp;
+&nbsp;
+#
+
+
+# ARRAYS
+[All Array Methods](Codes/012_arrays.js)
