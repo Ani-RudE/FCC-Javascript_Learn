@@ -198,3 +198,18 @@ We can't change only one index of a string individually, we have to update the e
 
 # ARRAYS
 [All Array Methods](Codes/012_arrays.js)
+<br>
+push() - Adds element at the end.
+pop() - Removes last element.
+shift() - Removes the first element.
+unshift() - Adds element at the start of the array.
+
+
+#
+&nbsp;
+&nbsp;
+#
+
+
+# FUNCTIONS
+[Declaring Functions](Codes/013_functions.js)
