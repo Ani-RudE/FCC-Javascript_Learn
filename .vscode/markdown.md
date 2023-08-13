@@ -41,4 +41,4 @@ Code
 `[Text](Link)`
 `![Alt Text](Image Link)`
 `[Code](/Codes/001_code.js)`
-![Styling Texts](https://cdn.discordapp.com/attachments/1075621727004016721/1125362842359570513/image.png)
+![Styling Texts](https://cdn.discordapp.com/attachments/    1075621727004016721/1125362842359570513/image.png)
