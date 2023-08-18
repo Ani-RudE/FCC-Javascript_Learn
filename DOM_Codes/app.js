@@ -1,23 +1,19 @@
 console.log("M");
 
+// Reveal Event
+const revealBtn=document.querySelector('reveal-btn');
+const hiddenContent=document.querySelector('hidden-content');
 
-// Event Listener
-// element.addEventListener("click", funtion);
-
-const buttonTwo=document.querySelector('.btn-2');
-function alertBtn()
+function revealContent()
 {
-     alert('JavaScript BTN-2');
-};
-
-buttonTwo.addEventListener("click", alertBtn);
-
-
-// Mouseover
-const newBackgroundColor=document.querySelector('.box-3');
-function changeBgColor()
-{
-     newBackgroundColor.style.backgroundColor='blue';
+     if (hiddenContent.classList.contains('reveal-btn'))
+     {
+          hiddenContent.classList.remove('reveal-btn');
+     }
+     else
+     {
+          hiddenContent.classList.add('reveal-btn');
+     }
 }
 
-newBackgroundColor.addEventListener("mouseover", changeBgColor);
+revealBtn.addEventListener('click', revealContent);    
