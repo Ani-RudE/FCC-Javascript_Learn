@@ -16,4 +16,4 @@ function revealContent()
      }
 }
 
-revealBtn.addEventListener('click', revealContent);    
+revealBtn.addEventListener('click', revealContent);
